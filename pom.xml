@@ -143,7 +143,7 @@
 		<dependency>
 			<groupId>javax.transaction</groupId>
 			<artifactId>jta</artifactId>
-			<version>1.0.1B</version>
+			<version>1.0.1b</version>
 		</dependency>
 		<dependency>
 			<groupId>net.sourceforge.jtds</groupId>
